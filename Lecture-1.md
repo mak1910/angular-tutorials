@@ -1,8 +1,6 @@
 # Lecture 1
-=======
 
 ## HTML
--------
 
 - Hyper Text Markup Language 
 - Can only use tags that the browser supports
@@ -36,7 +34,6 @@
 - Further reading <https://www.w3schools.com/html/>
 
 ## CSS
-------
 
 - Cascading Style Sheets
 - Select html on the basis of tags or class or id
@@ -63,7 +60,7 @@
 - Further reading <https://www.w3schools.com/css/>
 
 ## Rest Service
----------------
+
 - GET, PUT, POST, DELETE
 - HTTP protocol
 - URI and Schema
@@ -80,7 +77,6 @@ Rest Call
 
 
 ## Javascript
--------------
 
 - Programming language of the web.
 - Started out with need to make dynamic rest calls and animations.
@@ -105,5 +101,5 @@ setTimeout(function() { console.log(2) }, 0)
 setTimeout(function() { console.log(3) }, 1000)
 console.log(4)
 ```
--- Further reading : <https://www.w3schools.com/js/>
--- Video on event loop : <https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=810s>
+- Further reading : <https://www.w3schools.com/js/>
+- Video on event loop : <https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=810s>
